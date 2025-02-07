@@ -1,9 +1,9 @@
 {
   "McUpdate": {
     "update": {
-      "url": "",
+      "url": "https://github.com/RkFSSVog/mcbe/releases/download/mc/MC-1.21.51-64Bit.apk",
       "releaseNotes": "The latest version of Minecraft is 1.21.51\n\nClick \"Download\" to download and install Minecraft.\n\nEnjoy the latest adventures in the world of Minecraft!",
-      "name": "MCBE 1.20.51 64-bit"
+      "name": "MCBE 1.21.51 64-bit"
     }
   }
 }
